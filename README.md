@@ -1,1 +1,3 @@
-# machine_learning
+# Machine_learning
+
+This repository contains my personal projects:
