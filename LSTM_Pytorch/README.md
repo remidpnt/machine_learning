@@ -1,4 +1,4 @@
-# NLP model: Unified language model fine tunning
+# NLP model: Unified language model fine tuning
 
 In this folder, you will find the python code to preprocess data and pretrain a 3 layers AWD-LSTM.
 Make sure to have a look to my related blogpost: https://remidpnt.github.io/NLP_transfer.html
